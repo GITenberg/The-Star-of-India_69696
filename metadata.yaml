@@ -1,0 +1,48 @@
+_repo: The-Star-of-India_69696
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Jayne, R. H.
+    - Ellis, E. S. (Edward Sylvester)
+    - Ellis, Edward S. (Edward Sylvester)
+    - Randolph, Geoffrey
+    - Hawthorne, R. M.
+    - LaSalle, Charles E.
+    - Adams, J. F. C. (James Fenimore Cooper)
+    - Adams, James Fenimore Cooper
+    - Adams, Capt. "Bruin"
+    - Muller, Billex
+    - Robins, Seelin
+    - Belknap, Boynton H.
+    - Belknap, B. H. (Boynton H.)
+    - Rodman, Emerson
+    - Hunter, Ned
+    - Lasalle, Chas. E.
+    - Emerson, Edwin
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+    wikipedia: https://en.wikipedia.org/wiki/Edward_S._Ellis
+description: ''
+gutenberg_issued: '2023-01-06'
+identifiers:
+  gutenberg: '69696'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435008691610&view=1up&seq=5
+pgterms:marc905: 20230105100855ellis
+pgterms:marc906: '1888'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: 'United States: M. A. Donohue & Co.,1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Star of India
+url: http://www.gutenberg.org/ebooks/69696
