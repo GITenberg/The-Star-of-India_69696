@@ -1,5 +1,8 @@
 _repo: The-Star-of-India_69696
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69696-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Ellis, Edward Sylvester
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2569
     wikipedia: https://en.wikipedia.org/wiki/Edward_S._Ellis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69696#The-Star-of-India
 gutenberg_issued: '2023-01-06'
 identifiers:
   gutenberg: '69696'
